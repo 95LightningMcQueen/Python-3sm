@@ -1,0 +1,28 @@
+Unic_ID,@TG_nick,Motion,API,Date,Time,API_answer
+1,@KyoSuiGet,Button click,NONE,2026-05-01,01:54:48,SUCCESS
+2,@KyoSuiGet,Button click,NONE,2026-05-01,01:54:55,SUCCESS
+3,@KyoSuiGet,Button click,University API,2026-05-01,01:55:01,WAITING_INPUT
+4,@KyoSuiGet,Keyboard typing,University API,2026-05-01,01:55:13,EMPTY_RESULT
+5,@KyoSuiGet,Keyboard typing,NONE,2026-05-01,01:55:20,NONE
+6,@KyoSuiGet,Keyboard typing,NONE,2026-05-01,01:55:31,NONE
+7,@KyoSuiGet,Button click,University API,2026-05-01,01:55:38,WAITING_INPUT
+8,@KyoSuiGet,Keyboard typing,University API,2026-05-01,01:55:43,EMPTY_RESULT
+9,@KyoSuiGet,Button click,Facts API,2026-05-01,01:55:47,SUCCESS
+10,@KyoSuiGet,Button click,Facts API,2026-05-01,01:55:54,SUCCESS
+11,@KyoSuiGet,Button click,Facts API,2026-05-01,01:55:56,SUCCESS
+12,@KyoSuiGet,Button click,Facts API,2026-05-01,01:56:27,SUCCESS
+13,@KyoSuiGet,Button click,Dog API,2026-05-01,01:56:31,SUCCESS
+14,@KyoSuiGet,Button click,Dog API,2026-05-01,01:56:44,SUCCESS
+15,@KyoSuiGet,Button click,Dog API,2026-05-01,01:56:48,SUCCESS
+16,@KyoSuiGet,Keyboard typing,NONE,2026-05-01,01:56:52,NONE
+17,@KyoSuiGet,Button click,NONE,2026-05-01,01:58:27,SUCCESS
+18,@KyoSuiGet,Button click,NONE,2026-05-01,01:58:30,SUCCESS
+19,@KyoSuiGet,Keyboard typing,NONE,2026-05-01,01:58:36,NONE
+20,@KyoSuiGet,Button click,Facts API,2026-05-01,01:59:19,SUCCESS
+21,@KyoSuiGet,Button click,Facts API,2026-05-01,01:59:29,SUCCESS
+22,@KyoSuiGet,Button click,University API,2026-05-01,01:59:39,WAITING_INPUT
+23,@KyoSuiGet,Keyboard typing,University API,2026-05-01,01:59:58,EMPTY_RESULT
+24,@KyoSuiGet,Button click,Dog API,2026-05-01,03:59:47,SUCCESS
+25,@KyoSuiGet,Button click,Dog API,2026-05-01,03:59:47,SUCCESS
+26,@KyoSuiGet,Button click,University API,2026-05-01,04:08:35,WAITING_INPUT
+27,@KyoSuiGet,Keyboard typing,University API,2026-05-01,04:08:41,SUCCESS

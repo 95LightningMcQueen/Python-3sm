@@ -1,0 +1,5 @@
+Вызываемая функция - Время выполнения
+scrape_glassdoor_jobs - 27.1657 сек
+process_data - 0.01 сек
+save_and_visualize - 0.341 сек
+main - 27.5217 сек
